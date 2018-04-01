@@ -1,21 +1,22 @@
-course: "CS 32"
+course: "CMPTGCS 130H"
 qtr: "S18"
 quarter: "Spring 2018"
-piazza_url: https://piazza.com/ucsb/spring2018/cmpsc32/home
-gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=23714
-gradescope_class_url: https://gradescope.com/courses/16782
+piazza_url: https://piazza.com/ucsb/spring2018/cmptgcs130h
+gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=24338
+class_website: "https://ucsb-cmptgcs-130h-s18.github.io/"
+#gradescope_class_url: https://gradescope.com/courses/16782
 
-ta_list: "Sanjana, Kun, and Yun"
-ta_list_full: "Sanjana Sahayaraj, Kun Wan, and Yun Zhao"
-mentors_list: "Natasha Lee, Sean Shelton, and Joel Bagan"
-discussion_section_times: "12pm, 1pm, 2pm, or 3pm"
+#ta_list: "Sanjana, Kun, and Yun"
+#ta_list_full: "Sanjana Sahayaraj, Kun Wan, and Yun Zhao"
+#mentors_list: "Natasha Lee, Sean Shelton, and Joel Bagan"
+#discussion_section_times: "12pm, 1pm, 2pm, or 3pm"
 
-github_url: https://github.com/ucsb-cs32-s18/ucsb-cs32-s18.github.io
+github_url: https://github.com/ucsb-cmptgcs-130h-s18/ucsb-cmptgcs-130h-s18.github.io
 #mentor_url: https://ucsb-cs56-pconrad-mentors.github.io
 mentor_url:
 
-on_campus: http://proquest.safaribooksonline.com
-off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
+#on_campus: http://proquest.safaribooksonline.com
+#off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
 
 submit_cs_course:
 
@@ -23,7 +24,7 @@ start_week: 1
 start_date: 2018-04-01 00:00:00.00-7:00
 num_weeks: 10
 extra_exam_week: true
-sections: "12pm, 1pm, 2pm, 3pm"
+#sections: "12pm, 1pm, 2pm, 3pm"
 
 cal_dates: >
   [

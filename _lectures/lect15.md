@@ -1,6 +1,6 @@
 ---
 num: "Lecture 15"
-desc: "Unix and Processes"
+desc: "Group Work"
 ready: true
-date: 2018-05-29 12:30:00.00-7:00
+date: 2018-05-21 12:30:00.00-7:00
 ---

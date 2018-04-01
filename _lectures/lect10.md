@@ -1,6 +1,6 @@
 ---
 num: "Lecture 10"
-desc: "Hashing"
+desc: "Puzzle Elements"
 ready: true
-date: 2018-05-08 12:30:00.00-7:00
+date: 2018-05-02 12:30:00.00-7:00
 ---

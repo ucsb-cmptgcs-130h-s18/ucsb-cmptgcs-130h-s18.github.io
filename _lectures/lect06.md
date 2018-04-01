@@ -1,6 +1,6 @@
 ---
 num: "Lecture 6"
-desc: "Inheritance and Polymporphism continued"
+desc: "Random Elements and Game Balance"
 ready: true
-date: 2018-04-19 12:30:00.00-7:00
+date: 2018-04-18 12:30:00.00-7:00
 ---
